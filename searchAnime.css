@@ -40,6 +40,8 @@ background: linear-gradient(90deg, rgba(131,58,180,1) 0%, rgba(29,207,253,1) 50%
 
 .logo{
     margin-left: 3rem;
+     display: flex;
+    align-items: center;
 }
 
 #logoName2 img{
