@@ -140,7 +140,6 @@ background: linear-gradient(90deg, rgba(131,58,180,1) 0%, rgba(29,207,253,1) 50%
 .para-container{
     display: flex;
     flex-direction: column;
-    margin: 0rem;
     font-family: 'Merriweather Sans', sans-serif;
 
 }
