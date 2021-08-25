@@ -54,12 +54,13 @@ background: linear-gradient(90deg, rgba(131,58,180,1) 0%, rgba(29,207,253,1) 50%
     flex-direction: column;
     justify-content: center;
     align-items: center;
-
+    height:fit-content;
+    width:fit-content;
 }
 
 .intro{
     color: rgb(33, 39, 33);
-    font-size: 3rem;
+    font-size: 1.5rem;
     margin-top:0.8rem;
     margin-bottom: 0.8rem;
     text-align: center;
