@@ -62,7 +62,7 @@ background: linear-gradient(90deg, rgba(131,58,180,1) 0%, rgba(29,207,253,1) 50%
 
 .intro{
     color: rgb(33, 39, 33);
-    font-size: 1.6rem;
+    font-size: 1rem;
     margin-top:0.8rem;
     margin-bottom: 0.8rem;
     text-align: center;
@@ -72,7 +72,7 @@ background: linear-gradient(90deg, rgba(131,58,180,1) 0%, rgba(29,207,253,1) 50%
 }
 
 .span1{
-    font-size: 1.2rem;
+    font-size: 1rem;
     margin-left: 0.3125rem;
     
 
