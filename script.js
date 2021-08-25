@@ -80,12 +80,13 @@ async function nextSetOfResults() {
 
 
     let searchText = document.getElementById("searchText").value;
-    destroyElements();
+    
     try{
     const response = await fetch(`https://api.jikan.moe/v3/search/anime?q=${searchText}`)
     const data = await response.json();
     const searchResult = data["results"];
     let diff = searchResult.length - searchResultCount;
+    destroyElements();  
     if (diff > searchResultCount) {
         console.log("going inside if condition and count is:" + searchResultCount)
         let count = 0;
