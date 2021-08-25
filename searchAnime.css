@@ -146,12 +146,11 @@ background: linear-gradient(90deg, rgba(131,58,180,1) 0%, rgba(29,207,253,1) 50%
 }
 
 .anime-info{
-    margin: 2rem;
     padding: 5px;
     display: flex;
     gap: 4rem;
     font-family: 'Merriweather Sans', sans-serif;
-    font-size: 1rem;
+    font-size: 0.8rem;
 }
 
 .side-headings{
