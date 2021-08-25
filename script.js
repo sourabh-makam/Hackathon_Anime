@@ -100,12 +100,12 @@ async function nextSetOfResults() {
             }
         }
     }
-    nextButton.style.display = "block";
+    
     }
     catch(err){
         alert(err);
     }
-    
+   nextButton.style.display = "block"; 
 }
 
 var invokeFunction = true;
