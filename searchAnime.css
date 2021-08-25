@@ -146,7 +146,7 @@ background: linear-gradient(90deg, rgba(131,58,180,1) 0%, rgba(29,207,253,1) 50%
     margin: 2rem;
     padding: 5px;
     display: flex;
-    gap: 10rem;
+    gap: 4rem;
     font-family: 'Merriweather Sans', sans-serif;
     font-size: 1rem;
 }
