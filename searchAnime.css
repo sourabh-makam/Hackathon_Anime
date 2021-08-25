@@ -9,11 +9,11 @@ background: linear-gradient(90deg, rgba(131,58,180,1) 0%, rgba(29,207,253,1) 50%
     margin-top: 1.5rem;
 }
 
-.links{
+/* .links{
    
     position: relative;
     left:75rem;
-}
+} */
 
 .links a{
     padding: 3rem;
