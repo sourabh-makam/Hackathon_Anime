@@ -12,7 +12,7 @@ background: linear-gradient(90deg, rgba(131,58,180,1) 0%, rgba(29,207,253,1) 50%
 .links{
    
     position: relative;
-    left:75rem;
+    left:50rem;
 }
 
 .links a{
@@ -54,8 +54,7 @@ background: linear-gradient(90deg, rgba(131,58,180,1) 0%, rgba(29,207,253,1) 50%
     flex-direction: column;
     justify-content: center;
     align-items: center;
-    height:fit-content;
-    width:fit-content;
+    
 }
 
 .intro{
@@ -126,6 +125,8 @@ background: linear-gradient(90deg, rgba(131,58,180,1) 0%, rgba(29,207,253,1) 50%
     display: flex;
     border: 2px solid black;
     background-color: whitesmoke;
+    height:fit-content;
+    width:fit-content;
     
 }
 
