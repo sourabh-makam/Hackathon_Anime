@@ -12,7 +12,7 @@ background: linear-gradient(90deg, rgba(131,58,180,1) 0%, rgba(29,207,253,1) 50%
 .links{
    
     position: relative;
-    left:20rem;
+    left:40rem;
 }
 
 .links a{
@@ -30,7 +30,7 @@ background: linear-gradient(90deg, rgba(131,58,180,1) 0%, rgba(29,207,253,1) 50%
 }
 
 #logoName2{
-    font-size: 1.5rem;
+    font-size: 1.8rem;
     font-style: oblique;
     /* font-weight: bold; */
     font-family: 'Yanone Kaffeesatz', sans-serif;
